@@ -1,0 +1,29 @@
+a {
+    color: black;
+}
+
+.Skills {
+    color: purple;
+}
+.bach {
+    color: green;
+}
+#haris {
+    color: red;
+}
+#hb {
+    font-size: xx-large;
+    color: green;
+}
+html {
+    background-color: lightgoldenrodyellow;
+}
+
+p[draggable="true"]
+{
+    color: blue;
+}
+li[draggable="true"]{
+    color: red;
+}
+
